@@ -1,0 +1,2 @@
+# 1-ImplementAggregationTest
+Implement a test that checks if a stateful component is really possible. This should really be something like a fold operation.
