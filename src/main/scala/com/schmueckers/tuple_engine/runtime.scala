@@ -1,4 +1,4 @@
-package com.schmueckers.tms.runtime
+package com.schmueckers.tuple_engine
 
 package object runtime {
   type Operator = PartialFunction[Any, Seq[Any]]

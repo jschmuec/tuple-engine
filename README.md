@@ -10,3 +10,8 @@ It's fairly obvious that this might not be the optimal implementation but if the
 
 ## Prove of Concept
 I'm currently writing a Trade Management System using this framework. Let's see if that works and how it can cope with the challenges arising from this kind of environtment. The project is called TBT for Tuple Based Trade management system.
+
+## Examples
+Can be found in the tests:
+
+[Usage of the SimpleRuntime](./test/scala/com/schmueckers/tuple_engine/TestSimpleRuntime.scala]
