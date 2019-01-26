@@ -26,3 +26,6 @@ If you now push 1 and 2 in there:
 3
 > RT.process(3)
 ```
+
+## Status
+Done
