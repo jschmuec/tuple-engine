@@ -18,4 +18,4 @@ Can be found in the tests:
 
 Or in the change logs:
 
-[Usage of fold](./book-of-work/1-ImplementOfAggregationTest.md)
+[Usage of fold](./book-of-work/1-ImplementAggregationTest.md)
