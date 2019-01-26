@@ -14,8 +14,8 @@ I'm currently writing a Trade Management System using this framework. Let's see 
 ## Examples
 Can be found in the tests:
 
-[Usage of the SimpleRuntime](./src/test/scala/com.schmueckers/tuple_engine/TestSimpleRuntime.scala)
+[Usage of the SimpleRuntime](./src/test/scala/com/schmueckers/tuple_engine/TestSimpleRuntime.scala)
 
 Or in the change logs:
 
-[Usage of fold](./book-of-work/1-ImplementationOfAggregationTest.md)
+[Usage of fold](./book-of-work/1-ImplementOfAggregationTest.md)
