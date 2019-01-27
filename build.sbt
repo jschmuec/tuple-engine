@@ -1,6 +1,6 @@
 name := "tuple-engine"
 
-version := "1.0.1-SNAPSHOT"
+version := "1.0.2-SNAPSHOT"
 
 organization := "com.schmueckers"
 
