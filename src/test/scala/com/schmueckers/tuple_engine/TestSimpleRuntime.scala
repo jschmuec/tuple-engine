@@ -1,6 +1,6 @@
 package com.schmueckers.tuple_engine
 
-import com.schmueckers.tuple_engine.runtime.SimpleRuntime
+import com.schmueckers.tuple_engine.SimpleRuntime
 import org.scalatest.{FunSuite, GivenWhenThen, Matchers}
 
 class TestSimpleRuntime extends FunSuite with Matchers with GivenWhenThen {

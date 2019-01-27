@@ -1,7 +1,6 @@
-package com.schmueckers.tuple_engine
+package com.schmueckers
 
-package object runtime {
-  type Operator = PartialFunction[Any, Seq[Any]]
+package object tuple_engine {type Operator = PartialFunction[Any, Seq[Any]]
 
   trait Framework {
 

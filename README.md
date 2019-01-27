@@ -6,10 +6,10 @@ When I write new code, I usually commingle business logic with orchestration and
 Unfortunately, I can't work only on pure functions because I want to be able to aggregate.
 
 ## Performance
-It's fairly obvious that this might not be the optimal implementation but if they check for domain is reasonabily fast there is really no reason why this would be slower than a manually programmed feeding pipeline.
+It's fairly obvious that this might not be the optimal implementation but if they check for domain is reasonably fast there is really no reason why this would be slower than a manually programmed feeding pipeline.
 
 ## Prove of Concept
-I'm currently writing a Trade Management System using this framework. Let's see if that works and how it can cope with the challenges arising from this kind of environtment. The project is called TBT for Tuple Based Trade management system.
+I'm currently writing a Trade Management System using this framework. Let's see if that works and how it can cope with the challenges arising from this kind of environment. The project is called TBT for Tuple Based Trade management system.
 
 ## Examples
 Can be found in the tests:
