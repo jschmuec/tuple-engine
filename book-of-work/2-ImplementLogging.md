@@ -8,3 +8,20 @@ Tests can be found in [TestHookedRuntime](
 
 ## Status
 Done
+
+## Description
+
+To implement simple logging, the pre and post hooks can be used to write to the logger:
+
+```scala
+object RT extends HookedRuntime( new SimpleRuntime,
+    pre = (label,arg) => println(s"called with $label, $arg) ) {
+    RT.addOperator( "x" ){
+        case i : Int => Nil
+    }
+}
+
+RT.process(1)
+```
+
+Will print `called with x, 1`
